@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: aqua;
+    max-width: 700px;
+    height: 500px;
+    margin: 0 auto;
+}
+.text{
+    padding: 50px;
+    text-align: center;
+
+}
+.input-field{
+    text-align: center;
+}
+form input[type=text]
+{
+    width: 70%;
+    padding: 8px;
+}
+form input[type = button]{
+    padding: 8px;
+    cursor: pointer;
+    background-color: blue;
+    border: none;
+    outline: none;
+    color: white;
+}
