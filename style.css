@@ -30,3 +30,34 @@ form input[type = button]{
     outline: none;
     color: white;
 }
+.bot-cont {
+    text-align: center;
+    margin-top: 20px;
+}
+p{
+    display: inline;
+    margin-right: 60%;
+}
+
+.item {
+    padding: 15px;
+    background-color: aliceblue;
+}
+ i{
+    display: inline-block;
+    cursor: pointer;
+    color: black;
+    background-color: white;
+    outline: none;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    margin-right: 10px;
+}
+.check, .delete{
+    display: inline;
+    border: none;
+}
+.list1{
+    margin-top: 5px;
+}
